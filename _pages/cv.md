@@ -10,10 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
----------
-
-  ----------- ----------------------------------------------------------------------------------
-  
+======  
 *  2008–2016   Doctor of Science, Computer Science, University of Biskra, Algeria
                **Thesis Title: Hybrid Meta-heuristics for Multi-objective optimization**
                Supervisors: Foudil Cherif.              
@@ -22,10 +19,8 @@ Education
                Supervisors: Mohamed Batouche.          
  * 1999–2004   Engineer, Computer Science, University of Biskra, Algeria.
   
-  ----------- ----------------------------------------------------------------------------------
-
-Positions
----------
+Work experience
+======
 
 ### Academic
 
