@@ -24,7 +24,7 @@ Education
   
   ----------- ----------------------------------------------------------------------------------
 
-Positions {#appointments}
+Positions
 ---------
 
 ### Academic
@@ -86,7 +86,7 @@ Theses and dissertations
     approches évolutionnaires (quantiques) hybrides, 2007, [Magister]{}
     at University of Mohamed Khider Biskra, Algeria.
 
-Publications {#posters}
+Publications
 ------------
 
 1.  **Abdelhakim Cheriet, Roberto Santana** Modeling dependencies
