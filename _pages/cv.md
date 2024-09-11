@@ -25,8 +25,9 @@ Work experience
 ### Academic
 
   ------------ -----------------------------------------------------------------------
-  
-  * 2016–today:   Associate professor, Computer Science, University of Ouargla, Algeria  
+
+  * 2024–today:   Associate professor, The National School of Artificial Intelligence, Algeria  
+  * 2016–2024:   Associate professor, Computer Science, University of Ouargla, Algeria  
   * 2008–2016 :   Assistant professor, Computer Science, University of Biskra, Algeria
   * 2008–today:   Permanent researcher, LESIA Laboratory, University of Biskra, Algeria
   
@@ -36,7 +37,7 @@ Work experience
 
   ------------ -----------------------------------------------------------------------------------------------------------------------------
   
-  * 2017–today:   Vice-Dean of graduate studies, Faculty of new technologies of information and communication, University of Ouargla, Algeria
+  * 2017–2024:   Vice-Dean of graduate studies, Faculty of new technologies of information and communication, University of Ouargla, Algeria
   * 2014–2016 :   Vice-Head department for studies, Computer Science, University of Biskra, Algeria
   
   ------------ -----------------------------------------------------------------------------------------------------------------------------
