@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate professor in the Department of Computer Science and Information Technology at the University of Ouargla. My research interests are in Optimization, Evolutioonary Algorithms, Estimation of Distribution Algorithm, and Deep Learning.
+I am an Associate professor at the National School of Artificial Intelligence in Algiers, Algeria. My research interests are in Optimization, Evolutionary Algorithms, Estimation of Distribution Algorithms, and Deep Learning.
 
